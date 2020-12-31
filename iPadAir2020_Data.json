@@ -1,0 +1,25 @@
+[
+  {"id":"A001", "color": "太空灰色", "prices": 18900, "storage": "64G", "network":"Wi-Fi", "picture":""},
+  {"id":"A002", "color": "銀色", "prices": 18900, "storage": "64G", "network":"Wi-Fi", "picture":""},
+  {"id":"A003", "color": "玫瑰金色", "prices": 18900, "storage": "64G", "network":"Wi-Fi", "picture":""},
+  {"id":"A004", "color": "綠色", "prices": 18900, "storage": "64G", "network":"Wi-Fi", "picture":""},
+  {"id":"A005", "color": "天藍色", "prices": 18900, "storage": "64G", "network":"Wi-Fi", "picture":""},
+
+  {"id":"B001", "color": "太空灰色", "prices": 23200, "storage": "64G", "network":"Cellular", "picture":""},
+  {"id":"B002", "color": "銀色", "prices": 23200, "storage": "64G", "network":"Cellular", "picture":""},
+  {"id":"B003", "color": "玫瑰金色", "prices": 23200, "storage": "64G", "network":"Cellular", "picture":""},
+  {"id":"B004", "color": "綠色", "prices": 23200, "storage": "64G", "network":"Cellular", "picture":""},
+  {"id":"B005", "color": "天藍色", "prices": 23200, "storage": "64G", "network":"Cellular", "picture":""},
+
+  {"id":"C001", "color": "太空灰色", "prices": 23900, "storage": "256G", "network":"Wi-Fi", "picture":""},
+  {"id":"C002", "color": "銀色", "prices": 23900, "storage": "256G", "network":"Wi-Fi", "picture":""},
+  {"id":"C003", "color": "玫瑰金色", "prices": 23900, "storage": "256G", "network":"Wi-Fi", "picture":""},
+  {"id":"C004", "color": "綠色", "prices": 23900, "storage": "256G", "network":"Wi-Fi", "picture":""},
+  {"id":"C005", "color": "天藍色", "prices": 23900, "storage": "256G", "network":"Wi-Fi", "picture":""},
+
+  {"id":"D001", "color": "太空灰色", "prices": 28200, "storage": "256G", "network":"Cellular", "picture":""},
+  {"id":"D002", "color": "銀色", "prices": 28200, "storage": "256G", "network":"Cellular", "picture":""},
+  {"id":"D003", "color": "玫瑰金色", "prices": 28200, "storage": "256G", "network":"Cellular", "picture":""},
+  {"id":"D004", "color": "綠色", "prices": 28200, "storage": "256G", "network":"Cellular", "picture":""},
+  {"id":"D005", "color": "天藍色", "prices": 28200, "storage": "256G", "network":"Cellular", "picture":""},
+]
